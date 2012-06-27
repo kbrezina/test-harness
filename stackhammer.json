@@ -12,7 +12,7 @@
         {
           "type": "T1_MICRO",
           "deployState": "RUNNING",
-          "image": "ami-31814f58",
+          "image": "ami-973b06e3",
           "role": "test_harness",
           "name": "thallgren_test"
         }
